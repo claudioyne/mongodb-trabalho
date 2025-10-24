@@ -1,0 +1,14 @@
+{
+    "name": "mongodb-trabalho",
+    "version": "1.0.0",
+    "description": "Demonstração prática de escalabilidade com MongoDB Atlas",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "mongodb": "^6.8.0"
+    }
+  }
+  
